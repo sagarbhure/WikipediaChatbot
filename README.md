@@ -7,7 +7,8 @@ History of chatbots dates back to 1966 when a computer program called ELIZA was 
 ## Motivation
 The idea of this project come from creating a wikepedia like bot who can specific answers based on political leaders, movie genere and raiting, and many more to let the audience know what they want without wasting time over internet sercing for their answers.
 
-This project is into development to add intelligence to the bot to make smart interactions, and add more topics. Currently mostly it's backend ready, will work on frontend whenever frontend is ready. Reach out to me for any suggesition at [Sagar Bhure(https://sagarbhure.github.io/)
+This project is into development to add intelligence to the bot to make smart interactions, and add more topics. Currently mostly it's backend ready, will work on frontend whenever frontend is ready. Reach out to me for any suggesition at
+[Sagar Bhure](https://sagarbhure.github.io/)
 
 
 ## Pre-requisites
